@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @PremonitionDev
-- 👀 I’m interested in ... Furthering my understanding of Unity and C#.
-- 🌱 I’m currently learning ... C#!
-- 💞️ I’m looking to collaborate on ... MEANINGLESS! And other assorted projects.
-- 📫 How to reach me ... My Twitter is @PrxemGameDev
+- 👀 I’m interested in ... Furthering my understanding of Godot and GDScript.
+- 🌱 I’m currently learning ... GDScript!
+- 💞️ I’m looking to collaborate on ... Godot-related projects
+- 📫 How to reach me ... My Twitter is @PrxemDoesThings
 
 <!---
 PremonitionDev/PremonitionDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
